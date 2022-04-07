@@ -12,6 +12,13 @@ WHMSonic Shoutcast hosting (Reseller: [LiteRECORDS](https://literecords.com))
 vBulletin 4.2.2   
 
 ---
+## Dependencies   
+[Font Awesome v4](https://fontawesome.com/v4/icons/)   
+Include in HEADER template   
+```css
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">```
+
+---
 * static.php - Plugin Hook Location: global_bootstrap_init_start   
 * refresh.php - Plugin Hook Location: ajax_start   
 * page.php - Template code   
