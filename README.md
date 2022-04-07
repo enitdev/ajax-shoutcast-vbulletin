@@ -2,7 +2,7 @@
 [![vBulletin - 4.2.*](https://img.shields.io/badge/vBulletin-4.2.*-2ea44f)](https://) ![maintained - yes](https://img.shields.io/badge/maintained-yes-blue)   
 
 This project was made for [LiteRECORDS](https://literecords.com)   
-I was going to build this into an XML product. Maybe one day...   
+I was going to build this into an XML product but with the project files you can completely customize everything.  
 Support from Dave Jong.   
 <img src="https://literecords.com/public/shoutcast-ajax-ui.png" />
 
